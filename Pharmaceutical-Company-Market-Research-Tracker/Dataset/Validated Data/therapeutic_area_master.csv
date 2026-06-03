@@ -1,0 +1,288 @@
+Company Name,Therapeutic Area
+Pfizer Inc.,Oncology
+Pfizer Inc.,Internal Medicine
+Pfizer Inc.,Vaccines
+Pfizer Inc.,Inflammation & Immunology
+Novartis AG,Cardiovascular-Renal-Metabolic
+Novartis AG,Immunology
+Novartis AG,Neuroscience
+Novartis AG,Oncology
+Roche Holding AG,Oncology
+Roche Holding AG,Immunology
+Roche Holding AG,Neuroscience
+Roche Holding AG,Ophthalmology
+Roche Holding AG,Infectious Diseases
+Roche Holding AG,Haematology
+Sanofi S.A.,Immunology
+Sanofi S.A.,Oncology
+Sanofi S.A.,Rare Diseases
+Sanofi S.A.,Rare Blood Disorders
+Sanofi S.A.,Neurology
+Sanofi S.A.,Vaccines
+"Merck & Co., Inc.",Oncology
+"Merck & Co., Inc.",Vaccines
+"Merck & Co., Inc.",Infectious Diseases
+"Merck & Co., Inc.",Cardiometabolic & Respiratory
+"Merck & Co., Inc.",Immunology
+"Merck & Co., Inc.",Neuroscience
+"Merck & Co., Inc.",Ophthalmology
+AstraZeneca PLC,Oncology
+AstraZeneca PLC,BioPharmaceuticals (Cardiovascular Renal & Metabolism
+AstraZeneca PLC,Respiratory & Immunology)
+AstraZeneca PLC,Rare Disease
+AstraZeneca PLC,Vaccines & Immune Therapies
+AbbVie Inc.,Immunology
+AbbVie Inc.,Oncology
+AbbVie Inc.,Neuroscience
+AbbVie Inc.,Eye Care
+AbbVie Inc.,Aesthetics
+GSK plc,Respiratory
+GSK plc,Immunology & Inflammation
+GSK plc,HIV
+GSK plc,Oncology
+GSK plc,Infectious Diseases
+Bayer AG,Oncology
+Bayer AG,Cardiology
+Bayer AG,Ophthalmology
+Bayer AG,Women's Health
+Bayer AG,Neurology
+Bayer AG,Immunology
+Bayer AG,Cell & Gene Therapy
+Eli Lilly and Company,Diabetes & Obesity
+Eli Lilly and Company,Oncology
+Eli Lilly and Company,Immunology
+Eli Lilly and Company,Neuroscience
+Bristol Myers Squibb Company,Oncology
+Bristol Myers Squibb Company,Hematology
+Bristol Myers Squibb Company,Immunology
+Bristol Myers Squibb Company,Cardiovascular
+Bristol Myers Squibb Company,Neuroscience
+Amgen Inc.,General Medicine
+Amgen Inc.,Oncology
+Amgen Inc.,Inflammation
+Amgen Inc.,Rare Disease
+Takeda Pharmaceutical Company Limited,Gastroenterology & Inflammation
+Takeda Pharmaceutical Company Limited,Rare Diseases
+Takeda Pharmaceutical Company Limited,Plasma-Derived Therapies (PDT)
+Takeda Pharmaceutical Company Limited,Oncology
+Takeda Pharmaceutical Company Limited,Neuroscience
+Takeda Pharmaceutical Company Limited,Vaccines
+Boehringer Ingelheim,Cardiometabolic (Diabetes
+Boehringer Ingelheim,Heart Failure
+Boehringer Ingelheim,CKD
+Boehringer Ingelheim,Obesity/MASH)
+Boehringer Ingelheim,Respiratory (Pulmonary Fibrosis)
+Boehringer Ingelheim,Oncology
+Boehringer Ingelheim,Immunology & Inflammation
+Boehringer Ingelheim,Mental Health
+Novo Nordisk A/S,Diabetes Care
+Novo Nordisk A/S,Obesity Care
+Novo Nordisk A/S,Rare Diseases (Rare Blood Disorders
+Novo Nordisk A/S,Rare Endocrine Disorders)
+"Regeneron Pharmaceuticals, Inc.",Ophthalmology
+"Regeneron Pharmaceuticals, Inc.",Immunology & Inflammation
+"Regeneron Pharmaceuticals, Inc.",Oncology
+"Regeneron Pharmaceuticals, Inc.",Cardiovascular & Metabolic
+"Regeneron Pharmaceuticals, Inc.",Neuroscience
+"Regeneron Pharmaceuticals, Inc.",Hematology
+"Regeneron Pharmaceuticals, Inc.",Infectious Diseases
+"Regeneron Pharmaceuticals, Inc.",Rare Diseases
+Biogen Inc.,Neuroscience (Multiple Sclerosis
+Biogen Inc.,Alzheimer's Disease
+Biogen Inc.,ALS
+Biogen Inc.,Parkinson's)
+Biogen Inc.,Rare Diseases
+Biogen Inc.,Immunology
+Vertex Pharmaceuticals Incorporated,Cystic Fibrosis
+Vertex Pharmaceuticals Incorporated,Pain (Acute & Neuropathic)
+Vertex Pharmaceuticals Incorporated,Hematology (Sickle Cell Disease
+Vertex Pharmaceuticals Incorporated,Beta-Thalassemia)
+Vertex Pharmaceuticals Incorporated,Kidney Disease
+Vertex Pharmaceuticals Incorporated,Type 1 Diabetes
+"Moderna, Inc.",Infectious Diseases (COVID-19
+"Moderna, Inc.",RSV
+"Moderna, Inc.",Influenza)
+"Moderna, Inc.",Oncology
+"Moderna, Inc.",Rare Diseases
+"Moderna, Inc.",Cardiovascular
+"Moderna, Inc.",Autoimmune
+BioNTech SE,Oncology (mRNA Cancer Immunotherapies
+BioNTech SE,Bispecific Antibodies
+BioNTech SE,ADCs
+BioNTech SE,CAR-T)
+BioNTech SE,Infectious Diseases (COVID-19
+BioNTech SE,Influenza
+BioNTech SE,Tuberculosis
+BioNTech SE,Malaria)
+CSL Limited,Immunology
+CSL Limited,Haematology
+CSL Limited,Nephrology & Transplant
+CSL Limited,Respiratory
+CSL Limited,Cardiovascular & Metabolic
+CSL Limited,Vaccines
+Teva Pharmaceutical Industries Limited,Generic Medicines (U.S.
+Teva Pharmaceutical Industries Limited,Europe
+Teva Pharmaceutical Industries Limited,International Markets)
+Teva Pharmaceutical Industries Limited,Innovative Medicines (CNS/Neuroscience
+Teva Pharmaceutical Industries Limited,Immunology)
+Teva Pharmaceutical Industries Limited,Biosimilars
+Astellas Pharma Inc.,Oncology
+Astellas Pharma Inc.,Ophthalmology (Retinal Disease)
+Astellas Pharma Inc.,Urology (Prostate Cancer
+Astellas Pharma Inc.,Urothelial Cancer)
+Astellas Pharma Inc.,Women's Health (Menopause)
+Astellas Pharma Inc.,Hematology (AML)
+Astellas Pharma Inc.,Transplantation & Immunology
+"Daiichi Sankyo Co., Ltd.",Oncology (ADC Platform: HER2
+"Daiichi Sankyo Co., Ltd.",TROP2
+"Daiichi Sankyo Co., Ltd.",HER3
+"Daiichi Sankyo Co., Ltd.",B7-H3
+"Daiichi Sankyo Co., Ltd.",CDH6)
+"Daiichi Sankyo Co., Ltd.",Cardiovascular
+"Daiichi Sankyo Co., Ltd.",Pain
+"Daiichi Sankyo Co., Ltd.",Bone & Metabolism
+"Daiichi Sankyo Co., Ltd.",Vaccines
+"Otsuka Pharmaceutical (Otsuka Holdings Co., Ltd.)",Psychiatry & Neurology
+"Otsuka Pharmaceutical (Otsuka Holdings Co., Ltd.)",Oncology
+"Otsuka Pharmaceutical (Otsuka Holdings Co., Ltd.)",Cardiovascular & Renal
+"Eisai Co., Ltd.",Neurology
+"Eisai Co., Ltd.",Oncology
+"Eisai Co., Ltd.",Tropical Diseases
+"Chugai Pharmaceutical Co., Ltd.",Oncology
+"Chugai Pharmaceutical Co., Ltd.",Immunology
+"Chugai Pharmaceutical Co., Ltd.",Neuroscience
+"Chugai Pharmaceutical Co., Ltd.",Hematology
+"Chugai Pharmaceutical Co., Ltd.",Ophthalmology
+UCB SA,Immunology
+UCB SA,Neurology
+UCB SA,Rare Diseases
+Servier (Laboratoires Servier),Oncology
+Servier (Laboratoires Servier),Neurology
+Servier (Laboratoires Servier),Cardiometabolism
+Servier (Laboratoires Servier),Venous Diseases
+Recordati Industria Chimica e Farmaceutica S.p.A.,Cardiology
+Recordati Industria Chimica e Farmaceutica S.p.A.,Urology
+Recordati Industria Chimica e Farmaceutica S.p.A.,Gastroenterology
+Recordati Industria Chimica e Farmaceutica S.p.A.,Rare Diseases
+Recordati Industria Chimica e Farmaceutica S.p.A.,Endocrinology
+Grifols S.A.,Immunology
+Grifols S.A.,Hepatology & Intensive Care
+Grifols S.A.,Pulmonology
+Grifols S.A.,Hematology
+Grifols S.A.,Neurology
+Grifols S.A.,Infectious Diseases
+Alnylam Pharmaceuticals Inc.,Genetic Medicines
+Alnylam Pharmaceuticals Inc.,Cardio-Metabolic Diseases
+Alnylam Pharmaceuticals Inc.,Infectious Disease
+Alnylam Pharmaceuticals Inc.,CNS/Ocular Diseases
+Gilead Sciences Inc.,Virology
+Gilead Sciences Inc.,Oncology
+Gilead Sciences Inc.,Inflammation
+Incyte Corporation,Hematology
+Incyte Corporation,Oncology
+Incyte Corporation,Inflammation & Autoimmunity
+Jazz Pharmaceuticals plc,Neuroscience
+Jazz Pharmaceuticals plc,Oncology
+Exelixis Inc.,Oncology
+Sarepta Therapeutics Inc.,Rare Neuromuscular Diseases (Duchenne Muscular Dystrophy
+Sarepta Therapeutics Inc.,Limb-Girdle Muscular Dystrophies)
+BeOne Medicines Ltd. (formerly BeiGene Ltd.),Oncology (Hematology
+BeOne Medicines Ltd. (formerly BeiGene Ltd.),Solid Tumors)
+"Samsung Bioepis Co., Ltd.",Immunology
+"Samsung Bioepis Co., Ltd.",Oncology
+"Samsung Bioepis Co., Ltd.",Ophthalmology
+"Samsung Bioepis Co., Ltd.",Hematology
+"Samsung Bioepis Co., Ltd.",Nephrology
+"Samsung Bioepis Co., Ltd.",Endocrinology
+Sun Pharmaceutical Industries Limited,Dermatology
+Sun Pharmaceutical Industries Limited,Ophthalmology
+Sun Pharmaceutical Industries Limited,Oncology
+Sun Pharmaceutical Industries Limited,Cardiology
+Sun Pharmaceutical Industries Limited,Neuro-psychiatry
+Sun Pharmaceutical Industries Limited,Gastroenterology
+Sun Pharmaceutical Industries Limited,Diabetology
+Sun Pharmaceutical Industries Limited,Anti-infectives
+Sun Pharmaceutical Industries Limited,Urology
+Sun Pharmaceutical Industries Limited,Nephrology
+Sun Pharmaceutical Industries Limited,Respiratory
+Dr. Reddy's Laboratories Ltd.,Gastrointestinal
+Dr. Reddy's Laboratories Ltd.,Cardiovascular
+Dr. Reddy's Laboratories Ltd.,Diabetology
+Dr. Reddy's Laboratories Ltd.,Oncology
+Dr. Reddy's Laboratories Ltd.,Pain Management
+Dr. Reddy's Laboratories Ltd.,Dermatology
+Cipla Limited,Respiratory
+Cipla Limited,Anti-retroviral
+Cipla Limited,Cardiology
+Cipla Limited,Oncology
+Cipla Limited,Anti-infective
+Cipla Limited,CNS
+Cipla Limited,Urology
+Cipla Limited,Dermatology
+Cipla Limited,Diabetology
+Cipla Limited,Ophthalmology
+Lupin Limited,Cardiovascular
+Lupin Limited,Diabetes
+Lupin Limited,Respiratory
+Lupin Limited,CNS
+Lupin Limited,GI
+Lupin Limited,Dermatology
+Lupin Limited,Ophthalmology
+Lupin Limited,Gynaecology
+Lupin Limited,Anti-infectives
+Aurobindo Pharma Limited,Anti-infectives
+Aurobindo Pharma Limited,CNS
+Aurobindo Pharma Limited,Cardiovascular
+Aurobindo Pharma Limited,ARV/HIV
+Aurobindo Pharma Limited,Oncology (Biosimilars)
+Aurobindo Pharma Limited,Gastroenterology
+Aurobindo Pharma Limited,Dermatology
+Aurobindo Pharma Limited,APIs
+Zydus Lifesciences Limited,Cardiology
+Zydus Lifesciences Limited,Metabolic/Diabetes
+Zydus Lifesciences Limited,Gastroenterology
+Zydus Lifesciences Limited,CNS
+Zydus Lifesciences Limited,Women Healthcare
+Zydus Lifesciences Limited,Nephrology
+Zydus Lifesciences Limited,Oncology
+Zydus Lifesciences Limited,Biosimilars
+Torrent Pharmaceuticals,Cardiovascular (CV)
+Torrent Pharmaceuticals,Central Nervous System (CNS)
+Torrent Pharmaceuticals,Gastro-Intestinal (GI)
+Torrent Pharmaceuticals,Women Healthcare (WHC)
+Torrent Pharmaceuticals,Vitamins Minerals & Nutrients (VMN)
+Torrent Pharmaceuticals,Cosmo-Dermatology
+Torrent Pharmaceuticals,Diabetology
+Torrent Pharmaceuticals,Pain Management
+Torrent Pharmaceuticals,Gynaecology
+Torrent Pharmaceuticals,Oncology
+Torrent Pharmaceuticals,Anti-Infective
+Alkem Laboratories,Anti-Infective
+Alkem Laboratories,Gastroenterology
+Alkem Laboratories,Pain Relief/Analgesic
+Alkem Laboratories,Anti-Diabetic
+Alkem Laboratories,Cardiology
+Alkem Laboratories,Dermatology
+Alkem Laboratories,Neurology/CNS
+Alkem Laboratories,Vitamins Minerals & Nutrition
+Alkem Laboratories,Oncology
+Alkem Laboratories,Ophthalmology
+Alkem Laboratories,Gynaecology
+Alkem Laboratories,Respiratory
+Mankind Pharma,Anti-Infectives
+Mankind Pharma,Cardiovascular
+Mankind Pharma,Gastrointestinal
+Mankind Pharma,Anti-Diabetic
+Mankind Pharma,Neuro/CNS
+Mankind Pharma,Vitamins/Minerals/Nutrients
+Mankind Pharma,Respiratory
+Mankind Pharma,Gynaecology
+Mankind Pharma,Dermatology
+Mankind Pharma,Oncology
+Mankind Pharma,Urology
+Glenmark Pharmaceuticals,Respiratory
+Glenmark Pharmaceuticals,Dermatology
+Glenmark Pharmaceuticals,Oncology
+Glenmark Pharmaceuticals,Cardiac
+Glenmark Pharmaceuticals,Diabetes
+Glenmark Pharmaceuticals,Anti-Infectives
